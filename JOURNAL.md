@@ -17,7 +17,7 @@
 1. [2026-10-07 – Started working on my Starbie! For the record, if any devs are seeing this, the guide was pretty difficult to follow, and yes, guilty as charged -- I used AI to understand some instructions. I'd say i](#2026-10-07-started-working-on-my-starbie-for-the-record-if-a)
 2. [2026-10-07 – I was so locked in on my PCB that i forgot I was working for over an hour T-T](#2026-10-07-i-was-so-locked-in-on-my-pcb-that-i-forgot-i-was-)
 3. [2026-10-08 – im so absolutely tired that im even not captilizing T-T](#2026-10-08-im-so-absolutely-tired-that-im-even-not-captilizi)
-4. [2026-10-11 – Work session](#2026-10-11-work-session)
+4. [2026-10-11 – This was an extremely long session of finishing of my Starbie! It may not seem like a lot for experienced hardware experts, but I worked 3 straight hours on finishing up my schematics. Finally, I foun](#2026-10-11-this-was-an-extremely-long-session-of-finishing-o)
 5. [2026-10-11 – Work session](#2026-10-11-work-session)
 
 ## Design
@@ -50,9 +50,11 @@ slow progress on the starbie, i guess i thought id finish the whole thing today,
 
 [Timelapse](https://lookout.hackclub.com/api/media/8f125e74-94ca-4f2a-aad3-616d2cceebe0/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – This was an extremely long session of finishing of my Starbie! It may not seem like a lot for experienced hardware experts, but I worked 3 straight hours on finishing up my schematics. Finally, I foun
 
 **3.6h**
+
+This was an extremely long session of finishing of my Starbie! It may not seem like a lot for experienced hardware experts, but I worked 3 straight hours on finishing up my schematics. Finally, I found out some really cool tips on how to route my PCB through YouTube (Youtube really is your friend in Hardware ^-^),  cleaned up errors, and started on some Arduino code :DDD
 
 [Timelapse](https://lookout.hackclub.com/api/media/1b8a10a2-6caf-4592-8b7c-802f5c101a9e/video.mp4)
 
