@@ -17,6 +17,7 @@ Here's the motion controls!
   
 1. Tilt -- inside radial menu
    - Firstly press button one to open the menu, the board acts like an "air mouse," and tilting the board moves a ball across the screen into one of four diagonal sectors to choose an action:
+     -
        a) Top/Nap: Sleeps, increases NRG, emits Z's
        b) Right/Play: Runs two fast laps, increases joy, lowers NRG
        c) Bottom/Feed: Wiggles and jumps, increases fullness
