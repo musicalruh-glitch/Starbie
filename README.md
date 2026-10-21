@@ -3,6 +3,7 @@ I'm making a Starbie, in the shape of the soul from Undertale. Please note that 
 
 Here's a picture of it:
 <img width="1919" height="1004" alt="Screenshot 2026-10-11 181855" src="https://github.com/user-attachments/assets/c3c9a7c7-63da-4f80-88fd-146794068089" />
+<img width="1918" height="1031" alt="Screenshot 2026-10-20 194448" src="https://github.com/user-attachments/assets/e5480625-9a34-4ca8-824c-321c8b82e3a0" />
 
 Here's what some of the buttons do! 
 
