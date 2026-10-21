@@ -18,7 +18,7 @@
 2. [2026-10-07 – I was so locked in on my PCB that i forgot I was working for over an hour T-T](#2026-10-07-i-was-so-locked-in-on-my-pcb-that-i-forgot-i-was-)
 3. [2026-10-08 – im so absolutely tired that im even not captilizing T-T](#2026-10-08-im-so-absolutely-tired-that-im-even-not-captilizi)
 4. [2026-10-11 – This was an extremely long session of finishing of my Starbie! It may not seem like a lot for experienced hardware experts, but I worked 3 straight hours on finishing up my schematics. Finally, I foun](#2026-10-11-this-was-an-extremely-long-session-of-finishing-o)
-5. [2026-10-11 – Work session](#2026-10-11-work-session)
+5. [2026-10-11 – FINISHED OFF MY STARBIEEE!!!](#2026-10-11-finished-off-my-starbieee)
 
 ## Design
 
@@ -58,8 +58,13 @@ This was an extremely long session of finishing of my Starbie! It may not seem l
 
 [Timelapse](https://lookout.hackclub.com/api/media/1b8a10a2-6caf-4592-8b7c-802f5c101a9e/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – FINISHED OFF MY STARBIEEE!!!
 
 **1.33h**
+
+FINISHED OFF MY STARBIEEE!!!
+Huge milestone in my eyes, I was working so hard on this, if this gets approved this may be my first hardware project ever. Honestly, I really gave myself a pat on the back for this one :DDD
+
+I finished up the Arduino code and Gerber files (like 20 mins from the end of week 1 T-T), and I uploaded it all to Github. Hooray!!
 
 [Timelapse](https://lookout.hackclub.com/api/media/92ac78c8-f313-4207-8ebb-fe723ff91439/video.mp4)
