@@ -17,11 +17,10 @@ Here's the motion controls!
   
 1. Tilt -- inside radial menu
    - Firstly press button one to open the menu, the board acts like an "air mouse," and tilting the board moves a ball across the screen into one of four diagonal sectors to choose an action:
-     -
-       a) Top/Nap: Sleeps, increases NRG, emits Z's
-       b) Right/Play: Runs two fast laps, increases joy, lowers NRG
-       c) Bottom/Feed: Wiggles and jumps, increases fullness
-       d) Left/Pet: Jumps and emits hearts, increases joy
+   - Top/Nap: Sleeps, increases NRG, emits Z's
+   - Right/Play: Runs two fast laps, increases joy, lowers NRG
+   - Bottom/Feed: Wiggles and jumps, increases fullness
+   - Left/Pet: Jumps and emits hearts, increases joy
 2. Shake/Normal View
    - Shake the heart a bit, and wake up your sleeping pet! *small boost to joy, small decrease to NRG + fullness
   
