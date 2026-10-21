@@ -24,7 +24,13 @@ Here's the motion controls!
 2. Shake/Normal View
    - Shake the heart a bit, and wake up your sleeping pet! *small boost to joy, small decrease to NRG + fullness
   
-
+BOM (Bill of Materials) Table:
+1. Custom Starbie PCB (Fabricated cirbuit board from Gerber Files) x1
+   - Price: $8.16
+   - Vendor: JLCPCB -- https://jlcpcb.com/?from=VGSU&utm_source=google&utm_medium=cpc&utm_campaign=14179457750&gad_source=1&gad_campaignid=14179457750&gbraid=0AAAAABS1QqmjhvpyM6UansMwKMCcapsDe&gclid=CjwKCAjwotzWBhBFEiwA1JhPoJelGj7nkAeiYrvhPq2GhTAk_WHOOXMeSoFLwSAmz8AfTMGFaQEYhRoCad8QAvD_BwE
+   - *Make sure to change shipping to Global Standard Direct Line
+   - *Make sure to change the Surface Finish from HASL (with lead) to LeadFree HASL
+2. 
   
 
 
