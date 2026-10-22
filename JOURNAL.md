@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuw68bhe06cx01oss4mxjx4h). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy. I made it so the PCB is inspired by the soul from Undertale!! Worked really hard on this, please check the README for extra shipping instructions where the BOM says to check it :)
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
