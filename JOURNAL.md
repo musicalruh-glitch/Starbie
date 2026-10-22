@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12.43h | 7 |
+| Week 1 | Tier 1 | 12.75h | 7 |
 
 ## Contents
 
@@ -73,7 +73,7 @@ I finished up the Arduino code and Gerber files (like 20 mins from the end of we
 
 ### 2026-10-21 – I said I finished my Starbie in my last journal entry, -- which I did, but this part was a whole lot of budgeting and exporting files from KiCad + updating my Github repo. I forgot to lapse this, so I
 
-**1.48h**
+**1.8h**
 
 I said I finished my Starbie in my last journal entry, -- which I did, but this part was a whole lot of budgeting and exporting files from KiCad + updating my Github repo. I forgot to lapse this, so I ended up not lapsing at all, just to remember that I could've lapsed a bit then added the extra time manually T-T
 
