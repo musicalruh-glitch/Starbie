@@ -1,4 +1,4 @@
-#### **Starbie**
+### **Starbie**
 I'm making a Starbie, in the shape of the soul from Undertale. Please note that there are two files directly imported from KiCad which are the Schematics and PCB, the gerber files are listed seperately. There's each of them individually, and one gerbers.zip file.
 
 Here's a picture of it:
@@ -25,8 +25,8 @@ Here's a picture of it:
 2. Shake/Normal View
    - Shake the heart a bit, and wake up your sleeping pet! *small boost to joy, small decrease to NRG + fullness
   
-!!IMPORTANT FOR BILL OF MATERIALS!!
-In Halflife I was told to add all the materials I would be using including anything I already own at $0, but Halflife requires everything added to be a minimum of $0.01 so everything listed to be $0.01 are things I already have!! Look at the BOM below for instructions for the custom PCB, the rest is basically a repeat of what's written in the Halflife BOM. FOR THE CUSTOM STARBIE PCB PLEASE CHANGE SHIPPING TO GLOBAL STANDARD DIRECT LINE AND CHANGE THE SURFACE FINISH FROM Hasl (with lead) TO LeadFree HASL.
+### **!!IMPORTANT FOR BILL OF MATERIALS!!
+In Halflife I was told to add all the materials I would be using including anything I already own at $0, but Halflife requires everything added to be a minimum of $0.01 so everything listed to be $0.01 are things I already have!! Look at the BOM below for instructions for the custom PCB, the rest is basically a repeat of what's written in the Halflife BOM. FOR THE CUSTOM STARBIE PCB PLEASE CHANGE SHIPPING TO GLOBAL STANDARD DIRECT LINE AND CHANGE THE SURFACE FINISH FROM Hasl (with lead) TO LeadFree HASL.**
 
 
 ### **Starbie Project Bill of Materials (BOM)**
