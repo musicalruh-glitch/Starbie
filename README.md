@@ -52,9 +52,9 @@ In Halflife I was told to add all the materials I would be using including anyth
 
 Things I already have/I'm buying myself:
 
-5. Momentary PushButton Switch - 12mm Square x1
-6. 20 Pcs 10 Pairs 40 Pin 1x40 Single Row Male And Female 2.54 Breakable Pin Header PCB JST Connector Strip For Arduino DIY x1
-7. ZeroneTeck USB C Data Cable
+1. Momentary PushButton Switch - 12mm Square x1
+2. 20 Pcs 10 Pairs 40 Pin 1x40 Single Row Male And Female 2.54 Breakable Pin Header PCB JST Connector Strip For Arduino DIY x1
+3. ZeroneTeck USB C Data Cable
    
   
 
