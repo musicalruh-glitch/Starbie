@@ -34,16 +34,15 @@ In Halflife I was told to add all the materials I would be using including anyth
 | Part / Description | Qty | Unit Price | Total Price | Vendor | Link |
 | --- | --- | --- | --- | --- | --- |
 | **Custom Starbie PCB** (Fabricated circuit board) | 1 | $4.00 | $4.00 | JLCPCB | https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
-| **Seeed Studio XIAO ESP32C3** (Main microcontroller) | 1 | [blank] | [blank] | [blank] | [blank] |
-| **0.96" I2C OLED Display (SSD1306)** (Screen for animations) | 1 | [blank] | [blank] | [blank] | [blank] |
-| **MPU6050 Module** (6-axis accelerometer/gyroscope) | 1 | [blank] | [blank] | [blank] | [blank] |
-| **DHT Sensor** (Temperature & humidity sensor) | 1 | [blank] | [blank] | [blank] | [blank] |
-| **Mini Pushbutton Switches** | 2 | [blank] | [blank] | [blank] | [blank] |
-| **Male Breakable Pin Headers** | 1 | [blank] | [blank] | [blank] | [blank] |
-| **Female Breakable Pin Headers** (Socket strip) | 1 | [blank] | [blank] | [blank] | [blank] |
-| **USB-C Data Cable** | 1 | [blank] | [blank] | [blank] | [blank] |
+| **Seeed Studio XIAO ESP32C3** (Main microcontroller) | 1 | $5.49 | $5.49 | OpenElab Inc. | https://shop.com/products/15171276669252?variantId=55134673404228&utm_source=google_display&utm_medium=&utm_campaign=24249207249&utm_content=824789162836&adgroup=201840906844&gclid=CjwKCAjwotzWBhBFEiwA1JhPoHlxAZ9mIDQ_HcftdG87PVtMWQWhvZ1NPeqvN5uGyvO27BO0uU62zBoCbrsQAvD_BwE&gad_source=1&gad_campaignid=24249207249&gbraid=0AAAAA9hdXieHU29oAyEHINvF9mm5ITR3N |
+| **0.96" I2C OLED Display (SSD1306)** (Screen for animations) | 1 | $1.02 | $1.02 | AliExpress | https://www.aliexpress.us/item/3256808426200900.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256808426200900&ds_e_product_merchant_id=5480922393&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19558607238&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=19566915268&gbraid=0AAAAAD6I-hFRHflJGCWNZNxA3pS6luCfe&gclid=CjwKCAjwotzWBhBFEiwA1JhPoCZgiQ26CRvcJ1qDZ60ryEK_80BIlHI656g-7cJhP5qdBNJaf_03VRoCZvgQAvD_BwE&gatewayAdapt=glo2usa |
+| **MPU6050 Module** (6-axis accelerometer/gyroscope) | 1 | $0.00 | $0.00 | Adafruit | https://www.adafruit.com/product/3886?srsltid=AYCX9vIX3rB99myWxMI641snRjAc60Fv1ix3ixLC3vS6xfss8y9cn9pj |
+| **DHT11 Sensor** (Temperature & humidity sensor) | 1 | $0.00 | [blank] | [blank] | [blank] |
+| Momentary PushButton Switch - 12mm Square** | 2 | [blank] | [blank] | [blank] | [blank] |
+| **20 Pcs 10 Pairs 40 Pin 1x40 Single Row Male And Female 2.54 Breakable Pin Header PCB JST Connector Strip For Arduino DIY** | 1 | $0.00 | $0.00 | AliExpress | https://www.aliexpress.us/item/3256806803489511.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256806803489511&ds_e_product_merchant_id=5356860524&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19558607238&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=19566915268&gbraid=0AAAAAD6I-hFRHflJGCWNZNxA3pS6luCfe&gclid=CjwKCAjwotzWBhBFEiwA1JhPoMmyghtUCi_4KULXwjWdnLCmfAoaQBkmJ8YcMg8Dce4t1yKjeaI-DBoC0JwQAvD_BwE&gatewayAdapt=glo2usa |
+| **ZeroneTeck USB C Data Cable** | 1 | $0.00 | $0.00 | Amazon | https://www.amazon.com/ZeroneTeck-Data-Cable-20Gbps-Video/dp/B0C9MGJM78/ref=sr_1_1?dib=eyJ2IjoiMSJ9.8Ki3FUlH49G5FGo5Ufavs8IjZDSj3mxA26y_Kr_BYi6OhzFPCxRu6dXn4Adf-hGm7GWa456uH7BhXOtopYR-iChs02o5soqe5FPaWtHmGnu0755S_S--Xs32kp9L1JWtnRe4WiggWJIQ24hPgj5bSWswg7Yb77u2gBnDziRMo7pHOsckFyGGR5RGgvoGr6aU6J0NPrKGbsFS5xVS748hzs4ZQwTm-sLvtqUqtIKdtcQ.0HA0KH58v7pFESOUe1QZHiOd3d2sX9bpWJfyq4IK85M&dib_tag=se&keywords=usb+c+data+cable&qid=1792555258&sr=8-1 |
 
-* **Total Tax & Shipping for the whole order:** [blank]
+* **Total Tax & Shipping for the whole order:** $17.69
 
 ---
 
