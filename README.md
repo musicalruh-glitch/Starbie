@@ -34,7 +34,6 @@ In Halflife I was told to add all the materials I would be using including anyth
 | Part / Description | Qty | Unit Price | Total Price | Vendor | Link |
 | --- | --- | --- | --- | --- | --- |
 | **Custom Starbie PCB** (Fabricated circuit board) | 1 | $4.00 | $4.00 | JLCPCB | https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
-|
 | **Seeed Studio XIAO ESP32C3** (Main microcontroller) | 1 | [blank] | [blank] | [blank] | [blank] |
 | **0.96" I2C OLED Display (SSD1306)** (Screen for animations) | 1 | [blank] | [blank] | [blank] | [blank] |
 | **MPU6050 Module** (6-axis accelerometer/gyroscope) | 1 | [blank] | [blank] | [blank] | [blank] |
