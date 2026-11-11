@@ -2,7 +2,7 @@
 I'm making a Starbie, in the shape of the soul from Undertale. Please note that there are two files directly imported from KiCad which are the Schematics and PCB, the gerber files are listed seperately. There's each of them individually, and one gerbers.zip file.
 
 Here's a picture of it:
-<img width="1919" height="1004" alt="Screenshot 2026-10-11 181855" src="https://github.com/user-attachments/assets/c3c9a7c7-63da-4f80-88fd-146794068089" />
+<img width="1919" height="1032" alt="Screenshot 2026-11-11 065542" src="https://github.com/user-attachments/assets/8fa29fd8-8820-4235-a6d3-0e1e290a5b2a" />
 <img width="1918" height="1031" alt="Screenshot 2026-10-20 194448" src="https://github.com/user-attachments/assets/e5480625-9a34-4ca8-824c-321c8b82e3a0" />
 
 ### **Here's what some of the buttons do!**
